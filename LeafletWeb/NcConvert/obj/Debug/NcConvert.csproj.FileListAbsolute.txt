@@ -1,0 +1,12 @@
+D:\workRequset\TJ\NcConvertTest\NcConvert\bin\Debug\NcConvert.dll.config
+D:\workRequset\TJ\NcConvertTest\NcConvert\bin\Debug\NcConvert.dll
+D:\workRequset\TJ\NcConvertTest\NcConvert\bin\Debug\NcConvert.pdb
+D:\workRequset\TJ\NcConvertTest\NcConvert\obj\Debug\NcConvert.dll
+D:\workRequset\TJ\NcConvertTest\NcConvert\obj\Debug\NcConvert.pdb
+D:\workRequset\TJ\NcConvertTest\NcConvert\obj\Debug\NcConvert.csprojResolveAssemblyReference.cache
+D:\workRequset\TJ\LeafletWeb\NcConvert\bin\Debug\NcConvert.dll.config
+D:\workRequset\TJ\LeafletWeb\NcConvert\bin\Debug\NcConvert.dll
+D:\workRequset\TJ\LeafletWeb\NcConvert\bin\Debug\NcConvert.pdb
+D:\workRequset\TJ\LeafletWeb\NcConvert\obj\Debug\NcConvert.csprojResolveAssemblyReference.cache
+D:\workRequset\TJ\LeafletWeb\NcConvert\obj\Debug\NcConvert.dll
+D:\workRequset\TJ\LeafletWeb\NcConvert\obj\Debug\NcConvert.pdb

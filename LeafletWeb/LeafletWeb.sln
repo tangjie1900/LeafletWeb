@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeafletWeb", "LeafletWeb\LeafletWeb.csproj", "{7F20309D-AD18-42EF-A6F7-D82C672B8FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtHandler", "ExtHandler\ExtHandler.csproj", "{E1A20AD4-7A49-4E63-9692-E5068C604B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NcConvert", "NcConvert\NcConvert.csproj", "{84BBDDC9-C1D2-4CD4-907D-E78F3AC16A4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F20309D-AD18-42EF-A6F7-D82C672B8FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F20309D-AD18-42EF-A6F7-D82C672B8FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F20309D-AD18-42EF-A6F7-D82C672B8FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F20309D-AD18-42EF-A6F7-D82C672B8FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A20AD4-7A49-4E63-9692-E5068C604B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A20AD4-7A49-4E63-9692-E5068C604B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A20AD4-7A49-4E63-9692-E5068C604B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A20AD4-7A49-4E63-9692-E5068C604B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BBDDC9-C1D2-4CD4-907D-E78F3AC16A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BBDDC9-C1D2-4CD4-907D-E78F3AC16A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BBDDC9-C1D2-4CD4-907D-E78F3AC16A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BBDDC9-C1D2-4CD4-907D-E78F3AC16A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

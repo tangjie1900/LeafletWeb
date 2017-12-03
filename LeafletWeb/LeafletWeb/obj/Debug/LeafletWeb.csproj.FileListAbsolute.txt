@@ -1,0 +1,11 @@
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\LeafletWeb.dll
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\LeafletWeb.pdb
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\obj\Debug\LeafletWeb.csprojResolveAssemblyReference.cache
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\obj\Debug\LeafletWeb.dll
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\obj\Debug\LeafletWeb.pdb
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\ExtHandler.dll
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\NcConvert.dll
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\Readearth.NetCDF.dll
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\ExtHandler.pdb
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\NcConvert.pdb
+D:\workRequset\TJ\LeafletWeb\LeafletWeb\bin\MMShareBLL.pdb

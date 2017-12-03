@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NcVarsModel>
+  <NcVarModel LonVarName="longitude"  LatVarName="latitude" TimeSteps="TSTEPS" Value="Power" Dir="Dir"></NcVarModel>
+</NcVarsModel>
+ 

@@ -1,0 +1,95 @@
+﻿body
+{
+}
+
+#mapstate
+{
+    width: 100%;
+    height: 23px;
+    background-color: transparent;
+    position: absolute;
+    bottom: 0px;
+    z-index: 9999;
+}
+
+#lng_div
+{
+    display: none;
+    float: left;
+    margin-left: 20px;
+    width: 50px;
+    height: 100%;
+    color: black;
+}
+
+#lngval_div
+{
+    float: left;
+    margin-left: 0px;
+    width: 100px;
+    height: 100%;
+    color: black;
+}
+
+#lat_div
+{
+    display: none;
+    float: left;
+    margin-left: 5px;
+    width: 50px;
+    height: 100%;
+    color: black;
+}
+
+#latval_div
+{
+    float: left;
+    margin-left: 0px;
+    width: 100px;
+    height: 100%;
+    color: black;
+}
+
+#zoom_div
+{
+    display: none;
+    float: left;
+    margin-left: 0px;
+    width: 113px;
+    color: black;
+}
+
+#zoomval_div
+{
+    float: left;
+    margin-left: 0px;
+    width: 100px;
+    height: 100%;
+    color: black;
+}
+
+#view_area
+{
+    float: left;
+    margin-left: 0px;
+    width: 500px;
+    height: 100%;
+    color: black;
+}
+
+
+#fu
+{
+    height: 200px;
+    width: 300px;
+    background-color: green;
+}
+
+#zi
+{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: red;
+    word-break: break-all;
+}

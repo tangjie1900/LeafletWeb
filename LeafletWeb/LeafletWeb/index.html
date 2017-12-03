@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Leaflet</title>
+
+    <link rel="stylesheet" href="CSS/index.css" type="text/css" />
+    <link rel="stylesheet" href="JS/Leaflet/leaflet.css" type="text/css" />
+    <link rel="stylesheet" href="JS/libs/openlayers/ol.css" type="text/css" />
+    <script src="JS/jQuery/jquery-1.9.1.js"></script>
+    <script src="JS/Leaflet/leaflet-src.js"></script>
+    <script src="JS/libs/openlayers/ol-debug.js"></script>
+    <script src="JS/main.js"></script>
+</head>
+<body style="margin: 0px; padding: 0px; overflow: hidden; height: 100%; position: absolute; width: 100%">
+
+    <div id="mapdiv" style="height: 100%">
+        <div id="map" style="height: 100%" name="sad"></div>
+        <a id="divhaha" name="haha"></a>
+    </div>
+
+    <div id="latlonTip">
+    </div>
+
+    <div id="mapstate">
+        <div id="lng_div">经度：</div>
+        <div id="lngval_div"></div>
+        <div id="lat_div">纬度：</div>
+        <div id="latval_div"></div>
+        <div id="zoom_div">当前视图等级：</div>
+        <div id="zoomval_div"></div>
+        <div id="view_area"></div>
+    </div>
+
+    <!--<div id="fu">
+        <div id="zi">sadsad</div>
+    </div>-->
+
+
+
+    <script>
+        window.onload = function () { load(); };
+    </script>
+</body>
+</html>
